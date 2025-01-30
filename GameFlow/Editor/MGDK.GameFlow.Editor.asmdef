@@ -1,8 +1,12 @@
 {
-    "name": "MGDK.Util.Runtime",
+    "name": "MGDK.GameFlow.Editor",
     "rootNamespace": "",
-    "references": [],
-    "includePlatforms": [],
+    "references": [
+        "GUID:b209d4cde34b54842a68bdc8bbd65f76"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
