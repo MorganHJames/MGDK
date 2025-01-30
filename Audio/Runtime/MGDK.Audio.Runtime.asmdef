@@ -1,0 +1,16 @@
+{
+    "name": "MGDK.Audio.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0c253bd66a6b1646aa65a120b442ba4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

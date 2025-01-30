@@ -1,0 +1,13 @@
+{
+  "name": "com.mgdk",
+  "version": "1.0.0",
+  "displayName": "MGDK",
+  "description": "This package contains all scripts and prefabs for MGDK.",
+  "unity": "6000.0",
+  "unityRelease": "26f1",
+  "author": {
+    "name": "Morgan James",
+    "email": "morganhmjames@gmail.com",
+    "url": "https://morganjames.dev"
+  }
+}

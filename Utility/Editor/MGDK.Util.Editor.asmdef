@@ -1,0 +1,18 @@
+{
+    "name": "MGDK.Util.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0c253bd66a6b1646aa65a120b442ba4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
